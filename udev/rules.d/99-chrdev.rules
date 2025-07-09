@@ -1,0 +1,2 @@
+# Rules file for dummy device driver
+KERNEL=="dummy", SUBSYSTEM=="dummy", MODE="0666"
