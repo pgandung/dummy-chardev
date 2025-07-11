@@ -4,7 +4,7 @@ This is dummy linux kernel character device driver that only shows how much this
 ### Build
 
 ```
-$ git clone https://github.com/plvhx/dummy-chardev.git
+$ git clone https://github.com/pgandung/dummy-chardev.git
 $ cd dummy-chardev
 $ cd module
 $ make
